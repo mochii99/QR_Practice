@@ -22,8 +22,8 @@ body {
   justify-content: center;
 }
 .card {
-  width: 340px;
-  height: 535px;
+  width: 320px;
+  height: 515px;
   background-color: var(--White);
   border-radius: 15px;
   padding: 14px;
@@ -41,7 +41,7 @@ img {
 h1 {
   font-weight: 700;
   font-size: 20px;
-  padding: 10px 24px 0 24px;
+  padding: 10px 15px 0 15px;
   color: var(--Dark-blue);
   margin-bottom: 15px;
 }
